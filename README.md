@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Mario Jr.
 
-Desenvolvedor Full Stack apaixonado por criar aplicações web completas com Java + Spring Boot e React. Atualmente estudando e desenvolvendo projetos para aprimorar cada vez mais minhas habilidades.
+Desenvolvedor Full Stack apaixonado por criar aplicações web completas com TypeScript, Next.js e Node.js. Atualmente estudando e desenvolvendo projetos para aprimorar cada vez mais minhas habilidades.
 
 🌐 Acesse meu portfólio: [mariojr.com.br](https://www.mariojr.com.br)
 
