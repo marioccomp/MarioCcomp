@@ -15,7 +15,7 @@
 
 ## 🙋 Sobre mim
 
-- 💻 Desenvolvedor **Full Stack**, hoje estagiário Full Stack no **BTG Pactual**, onde trabalho com **Python, FastAPI, Polars e React + TypeScript**.
+- 💻 Desenvolvedor **Full Stack**, estagiário Full Stack no **BTG Pactual**, onde trabalho com **Python, FastAPI, Polars e React + TypeScript**.
 - 🐍 Também construo com **Python** e machine learning (**scikit-learn**, **pandas**), do backend à análise de dados.
 - 🌐 No frontend, gosto de **Next.js**, **TypeScript** e **React**; nos dados, **PostgreSQL**; e empacoto tudo com **Docker**.
 - 🚀 Criei o **[Retold](#-projeto-em-destaque)**, uma plataforma social de portfólio para devs que ficou no ar por meses — veja abaixo.
