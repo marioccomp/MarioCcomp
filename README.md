@@ -18,7 +18,7 @@
 - 💻 Desenvolvedor **Full Stack**, hoje estagiário Full Stack no **BTG Pactual**, onde trabalho com **Python, FastAPI, Polars e React + TypeScript**.
 - 🐍 Também construo com **Python** e machine learning (**scikit-learn**, **pandas**), do backend à análise de dados.
 - 🌐 No frontend, gosto de **Next.js**, **TypeScript** e **React**; nos dados, **PostgreSQL**; e empacoto tudo com **Docker**.
-- 🚀 Atualmente construindo o **[Retold](#-projeto-em-destaque)**, uma plataforma social de portfólio para devs — veja abaixo.
+- 🚀 Criei o **[Retold](#-projeto-em-destaque)**, uma plataforma social de portfólio para devs que ficou no ar por meses — veja abaixo.
 - 🌱 Sempre estudando e aprimorando minhas habilidades como desenvolvedor full stack.
 
 ---
@@ -57,6 +57,8 @@
 
 **Plataforma social de portfólio para desenvolvedores.** Em vez de um currículo estático, você conecta sua conta do GitHub e o Retold transforma automaticamente seus repositórios em páginas de projeto ricas e analisadas — exibidas em um feed público onde outros devs e recrutadores podem descobrir, seguir, curtir e comentar em trabalho real.
 
+*Ficou no ar por vários meses e foi tirado do ar após o fim dos créditos da hospedagem (DigitalOcean) — o código segue disponível no repositório.*
+
 *A ideia central: deixar o código contar a história. Um worker em background clona cada repositório, analisa a stack e a estrutura, usa uma LLM para resumir o que o projeto realmente faz e rastreia a atividade real de commits de cada contribuidor.*
 
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)](https://github.com/marioccomp/retold)
@@ -78,7 +80,11 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marioccomp/MarioCcomp/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marioccomp/MarioCcomp/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marioccomp/MarioCcomp/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/marioccomp/MarioCcomp/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ## 📊 Estatísticas do GitHub
